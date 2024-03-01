@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Technologies
+ - (V0 IA) website for generate Login page UI source code
+ - (ShadcnUI) for UI components based on copy and paste and accessibility features
+ - (Next 14) using server components
+ - (Tailwindcss) a fast way to implement stylesheet
+ - (React Hook Form) to build and management of forms on application
+ - (Mailtrap) website for testing magic link feature
+ - (Next Auth) for create authentication features
+ - Bonus: Cursos IDE
